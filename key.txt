@@ -1,1 +1,1 @@
-firstkey!
+key='firstkey!'
